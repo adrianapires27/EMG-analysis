@@ -1,2 +1,2 @@
 # EMG-analysis
-Diagnosis of neuromuscular diseases using temporal and spectral analysis of EMG signals
+EMG Signal Processing and Analysis for Neuromuscular Condition Assessment
